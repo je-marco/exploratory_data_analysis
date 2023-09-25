@@ -7,5 +7,6 @@ This is the project I did for the Coursera Google Data Analytics course's case s
 * Used Microsoft's SQL Server to explore the data
 * Used Tableau to visualize the data and create an interactive dashboard
 
-## [Link to the Tableau dashboard](https://public.tableau.com/app/profile/jericka.marco/viz/COVID19Dashboard_16951688711120/floating)
+## [Link to the Tableau dashboard](https://public.tableau.com/app/profile/jericka.marco/viz/COVID19Dashboard_16951688711120/floating) - Use Desktop View for best view
+
 
